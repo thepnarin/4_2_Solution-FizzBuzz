@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\4_2_Solution-FizzBuzz\4_2_Solution-FizzBuzz\bin\Debug\4_2_Solution-FizzBuzz.exe.config
+D:\[OOP] - Object Oriented Programming\Test\4_2_Solution-FizzBuzz\4_2_Solution-FizzBuzz\bin\Debug\4_2_Solution-FizzBuzz.exe
+D:\[OOP] - Object Oriented Programming\Test\4_2_Solution-FizzBuzz\4_2_Solution-FizzBuzz\bin\Debug\4_2_Solution-FizzBuzz.pdb
+D:\[OOP] - Object Oriented Programming\Test\4_2_Solution-FizzBuzz\4_2_Solution-FizzBuzz\obj\Debug\4_2_Solution-FizzBuzz.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\4_2_Solution-FizzBuzz\4_2_Solution-FizzBuzz\obj\Debug\4_2_Solution-FizzBuzz.exe
+D:\[OOP] - Object Oriented Programming\Test\4_2_Solution-FizzBuzz\4_2_Solution-FizzBuzz\obj\Debug\4_2_Solution-FizzBuzz.pdb
